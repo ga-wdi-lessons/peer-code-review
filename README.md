@@ -27,7 +27,7 @@ that you implement your own informal practices with your teammates!
 At it's core, doing a code review is just reading code and giving feedback.
 When reading code, you should be looking for:
 
-* code quality - STACHE guidelines, patent pending ;)
+* code quality - [STACHE guidelines](code_quality_guidelines.md), patent pending ;)
 * potential bugs
 
 When giving (and recieving) feedback, remember that we're discussing and
